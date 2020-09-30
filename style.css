@@ -1,0 +1,55 @@
+#a {
+  background-color: white;
+  height: 200px;
+  border-right: 16px solid black;
+  border-bottom: 16px solid black;
+}
+#b {
+  background-color: white;
+  height: 200px;
+  border-right: 16px solid black;
+  border-bottom: 16px solid black;
+  border-top: 14px solid black;
+}
+
+#c {
+  background-color: red;
+  height: 400px;
+  border-bottom: 16px solid black;
+}
+
+#d {
+  background-color: #2d8cda;
+  height: 200px;
+  border-right: 16px solid black;
+}
+
+#e {
+  background-color: white;
+  border-right: 16px solid black;
+}
+
+#f {
+  background-color: white;
+  height: 100px;
+  border-bottom: 14px solid black;
+}
+
+#g {
+  background-color: yellow;
+  height: 100px;
+  border-top: 14px solid black;
+}
+
+.container {
+  position: absolute;
+  top: 6%;
+  left: 25%;
+  border: 12px solid white;
+  height: 620px;
+  width: 780px;
+}
+
+body {
+  background-color: black;
+}
