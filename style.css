@@ -53,3 +53,9 @@
 body {
   background-color: black;
 }
+#a,#b,#c,#d,#e,#f,#g{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
