@@ -59,8 +59,3 @@ body {
   align-items: center;
 }
 
-.styleClass {
-  transform: scale(1.2) translateY(10px);
-  z-index: 1;
-  border: 3px solid grey;
-}
