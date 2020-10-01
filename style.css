@@ -53,3 +53,40 @@
 body {
   background-color: black;
 }
+
+.center {
+  line-height: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+.center p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.center1 {
+  line-height: 400px;
+  height: 400px;
+  text-align: center;
+}
+
+.center1 p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.center2 {
+  line-height: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.center2 p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
