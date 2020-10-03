@@ -15,3 +15,4 @@ unscrambling the order of the provided columns.
 adjusting the widths of the provided columns.
 adding new rows and additional columns.
 nesting row(s) inside columns.
+Here, as we click on a container it starts changing it's shape and size.
